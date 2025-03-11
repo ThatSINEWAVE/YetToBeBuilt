@@ -2,9 +2,9 @@
 
 # [YetToBeBuilt](https://thatsinewave.github.io/YetToBeBuilt)
 
-![Banner](https://raw.githubusercontent.com/ThatSINEWAVE/YetToBeBuilt/refs/heads/main/.github/SCREENSHOTS/YetToBeBuilt.png)
+A simple and minimalistic "Under Construction" placeholder page. It serves as a temporary landing page for websites that are in development, featuring a dark aesthetic, subtle animations, and useful social links.
 
-YetToBeBuilt is a simple, minimalistic "Under Construction" placeholder page. It serves as a temporary landing page for websites that are in development, featuring a dark aesthetic, subtle animations, and useful social links.
+![Banner](https://raw.githubusercontent.com/ThatSINEWAVE/YetToBeBuilt/refs/heads/main/.github/SCREENSHOTS/YetToBeBuilt.png)
 
 🚀 **This is a [Template Repository](https://github.com/ThatSINEWAVE/YetToBeBuilt/generate), making it easy to create your own version!**  
 
