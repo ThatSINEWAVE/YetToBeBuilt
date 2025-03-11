@@ -6,6 +6,8 @@
 
 YetToBeBuilt is a simple, minimalistic "Under Construction" placeholder page. It serves as a temporary landing page for websites that are in development, featuring a dark aesthetic, subtle animations, and useful social links.
 
+🚀 **This is a [Template Repository](https://github.com/ThatSINEWAVE/YetToBeBuilt/generate), making it easy to create your own version!**  
+
 **[Live Demo Here](https://thatsinewave.github.io/YetToBeBuilt)**
 
 </div>
@@ -33,7 +35,7 @@ YetToBeBuilt is a simple, minimalistic "Under Construction" placeholder page. It
    ```
 2. Open `index.html` in a browser.
 
-##  Customization
+## Customization
 
 - **Modify Buttons**: Uncomment and replace `#REPLACE_ME` in `index.html` to add functional buttons.  
 - **Adjust Styles**: Edit `styles.css` for layout and color changes.  
@@ -41,7 +43,7 @@ YetToBeBuilt is a simple, minimalistic "Under Construction" placeholder page. It
 
 <div align="center">
 
-## [Join my discord server](https://discord.gg/2nHHHBWNDw)
+## [Join my Discord server](https://discord.gg/2nHHHBWNDw)
 
 </div>
 
@@ -51,4 +53,4 @@ Feel free to submit issues or contribute improvements via pull requests.
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE)
+This project is open-source and available under the [MIT License](LICENSE).
